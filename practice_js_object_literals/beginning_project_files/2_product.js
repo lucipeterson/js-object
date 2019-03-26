@@ -60,7 +60,8 @@ processSale(product, 2);
 
 
 
-/* 5. Call the processSale() function. When you call the processSale() function log the return value to the console so the message looks something like this:
+/* 5. Call the processSale() function. When you call the processSale() function log the return value 
+to the console so the message looks something like this:
 "Total sale: $20"
 */
 
